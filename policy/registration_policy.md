@@ -1,0 +1,6 @@
+---
+---
+
+# HKAF Registration Policy
+
+TODO
