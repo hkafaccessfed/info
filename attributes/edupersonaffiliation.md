@@ -27,7 +27,7 @@
 
 There is a knowledge base article available that explains how to write a Shibboleth IdP script to present attribute:
 
-Notes on privacy: eduPersonAffiliation should be used when the service provider does not need confirmation of the security domain of the user. Service providers who do need the security domain information should ask for eduPersonScopedAffiliation instead.
+**Notes on privacy:** eduPersonAffiliation should be used when the service provider does not need confirmation of the security domain of the user. Service providers who do need the security domain information should ask for eduPersonScopedAffiliation instead.
 
 Several values of eduPersonAffiliation are regarded as being "contained" within other values: for example, the student value is contained within member. It is recommended that identity providers have the ability either to maintain these multiple values for a given individual, or otherwise provide the ability to release either value as appropriate for a particular relying party. For example, although some relying parties might require the release of the more specific student value, a different relying party that only requires the less specific member value should only be sent the less specific value. Releasing student in this case gives the relying party more information about the user than is required, raising privacy and data protection concerns.
 
