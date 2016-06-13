@@ -1,7 +1,7 @@
 ---
 ---
 
-#authenticationMethod
+# authenticationMethod
 
 **Status:** core attribute
 

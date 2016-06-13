@@ -1,7 +1,7 @@
 ---
 ---
 
-#eduPersonAssurance
+# eduPersonAssurance
 
 **Status:** Core Attribute
 

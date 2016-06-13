@@ -1,7 +1,7 @@
 ---
 ---
 
-#mail
+# mail
 
 **Status:** core attribute
 
