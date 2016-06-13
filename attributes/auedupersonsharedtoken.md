@@ -16,7 +16,7 @@ Description: A unique identifier enabling federation spanning services such as G
 -    not mutable (refreshing the value is equivalent to creating a new identity)
 -    permitted to be displayed
 
-    (Note: the value is somewhat display friendly, and may be appended to the displayName with a separating space, and used as a unique display name to be included in PKI Certificate DNs and as a resource ownership label, e.g. John Citizen ZsiAvfxa0BXULgcz7QXknbGtfxk) 
+> (Note: the value is somewhat display friendly, and may be appended to the displayName with a separating space, and used as a unique display name to be included in PKI Certificate DNs and as a resource ownership label, e.g. John Citizen ZsiAvfxa0BXULgcz7QXknbGtfxk)
 
 -    portable
 
