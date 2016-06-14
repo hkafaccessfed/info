@@ -68,6 +68,6 @@ We recommend you visit the HKAF core attributes overview and the HKAF core attri
 |     [mobileNumber](http://hkafaccessfed.github.io/info/attributes/mobilenumber)	| LDAP	| Specifies a person's mobile telephone number.|
 |     [businessCategory](http://hkafaccessfed.github.io/info/attributes/businessCategory)	| LDAP	| Define the type of business in which organisation is involved. |
 |     [departmentNumber](http://hkafaccessfed.github.io/info/attributes/departmentNumber)	| LDAP	| Specify a person’s department code within their organisation. |
-|      division	| LDAP	| Specify a person’s division within their organisation. |
-|    ## [eduPersonOrcid](http://hkafaccessfed.github.io/info/attributes/eduPersonOrcid) ## |     	 LDAP |	 A persistent digital identifier that distinguishes the account holder from every other researcher. |
+|      [division](http://hkafaccessfed.github.io/info/attributes/division)	| LDAP	| Specify a person’s division within their organisation. |
+|    [eduPersonOrcid](http://hkafaccessfed.github.io/info/attributes/eduPersonOrcid) |     	 LDAP |	 A persistent digital identifier that distinguishes the account holder from every other researcher. |
 
