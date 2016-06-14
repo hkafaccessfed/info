@@ -13,4 +13,4 @@
 
 ## Attribute Validator
 
-- - [Automating Attribute Release](http://hkafaccessfed.github.io/info/faqs/av/Automating-Attribute-Release)
+- [Automating Attribute Release](http://hkafaccessfed.github.io/info/faqs/av/Automating-Attribute-Release)
