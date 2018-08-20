@@ -3,6 +3,6 @@
 
 # HKAF Policy
 
-- [Federation Rules](http://hkafaccessfed.github.io/info/policy/federation_rules)
-- [Registration policy](http://hkafaccessfed.github.io/info/policy/registration_policy)
-- [Usage Policy](http://hkafaccessfed.github.io/info/policy/usage_policy)
+- [HKAF Policy Framework](https://www.hkaf.edu.hk/compliance/hkaf-policy-framework)
+- [HKAF Identity Assurance Framework](http://www.hkaf.edu.hk/compliance/hkaf-identity-assurance-framework)
+- [HKAF Federation Operator Practice](https://www.hkaf.edu.hk/compliance/hkaf-federation-operational-practice-fop)
